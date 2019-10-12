@@ -155,7 +155,7 @@ Internet-Draft     Network Device Attestation Workflow         June 2019
    This document focuses primarily on software integrity verification
    using the Trusted Platform Module (TPM) as a root of trust.
 
-   Attestation information of course must be protected by means of
+   Attestation information must be protected by means of
    cryptographic techniques to assure its validity.
    It's important to note that TCG technologies are available to use
    either symmetric key encryption with shared keys, or public key
